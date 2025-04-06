@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.header{
+ background-image: url('./52c0cfc1-b241-4ea1-a069-19c00cacaaaf.jpg');
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+.container2{
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+}
+.container3{
+    max-width: 1100px;
+    width: 90%;
+    margin:auto;
+}
+
+.logo{
+    width: 130px;
+   
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px gray;
+   margin-top: 20px;
+   margin-left: 20px;
+}
+
+.cris{
+    width: 500px;
+    border-radius: 10%;
+   height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   margin-bottom: 10px;
+   box-shadow: 4px 4px 4px 4px gray;
+   
+}
+.offer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+   text-align: center;
+   display:block;
+   font-weight: 700;
+   font-size: 1.5rem;
+   margin-bottom: 2rem;
+
+}
+
+.bank{
+    width: 35%;
+    background-color:red;
+    text-align: center;
+    margin: auto; 
+    font-size: 15px;
+    color: white;
+}
+.yy-wrapper{
+    border: 2px solid red;
+}
+.yy.aa{
+    background-color: green;
+}
+.boxes{
+    padding-bottom: 40px;
+}
+.yy{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 7px;
+    /* border: 2px solid black; */
+    background-color: white;
+    margin:0.2em;
+}
+.pp{
+    font-size: 12px;
+}
+.box::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.box1{
+    padding: 0.5rem;
+    font-size: 2rem;
+}
+.box3{
+    padding: 0.62rem;
+   font-size: 2rem;
+}
+ .form{
+    background-color: red);
+ }
+.footer{
+    background-color: rgb(83, 128, 0);
+  
+}
+.foot{
+    width: 150%;
+   
+    text-align: center;
+    /* border: 2px solid black; */
+}
+.register{
+    width: 70px;
+    border-radius: 50%;
+    float: left;
+}
+
+.foote{
+    font-size: 36px;
+    color: white;
+}
+
